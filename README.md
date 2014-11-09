@@ -13,9 +13,10 @@ Windowsでcalendar.htaを起動します。
 メモ表示は標準では簡単なヘルプ表示ですが、カスタムにより表示内容を変更できます。  
 calendar.htaと同じフォルダに以下のファイルを置くことでカスタマイズが出来ます。
 - calendar.png
- - アプリケーションの背景画像として表示されます。画像サイズは横225px、縦315pxです。
+ アプリケーションの背景画像として表示されます。画像サイズは横225px、縦315pxです。
 - calendar.txt
- - デフォルトのメモ表示内容をテキストファイルの内容に置き換えます。
+ デフォルトのメモ表示内容をテキストファイルの内容に置き換えます。
+
 ##License
 This program has released under the MIT license.
 [http://opensource.org/licenses/MIT](http://opensource.org/licenses/MIT)
