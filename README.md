@@ -10,6 +10,9 @@ Windowsでcalendar.htaを起動します。
 ウィンドウ上部右側のアイコンは、表示切替ボタンです。
 カレンダー下の'Shutdown'ボタンを押すと、Windowsがシャットダウンされます。  
 表示切替ボタンを押すと、カレンダー表示とメモ表示を切り替えます。
+
+![プログラム実行例](./image.png)
+
 メモ表示は標準では簡単なヘルプ表示ですが、カスタムにより表示内容を変更できます。  
 calendar.htaと同じフォルダに以下のファイルを置くことでカスタマイズが出来ます。
 - calendar.png  
@@ -18,5 +21,5 @@ calendar.htaと同じフォルダに以下のファイルを置くことでカ�
  デフォルトのメモ表示内容をテキストファイルの内容に置き換えます。
 
 ##License
-This program has released under the MIT license.
+This program has released under the MIT license.  
 [http://opensource.org/licenses/MIT](http://opensource.org/licenses/MIT)
