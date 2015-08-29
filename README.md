@@ -1,8 +1,8 @@
 #The calendar application for Microsoft Windows.
 Windowsのデスクトップガジェット風カレンダーアプリです。  
-[Gistに置いてあるhtaプログラム](https://gist.github.com/f44d42b0036f01e5aa0d.git)からカスタムコードを除いてライセンス表示を追加しました。
+[Gistに置いてあるhtaプログラム](https://gist.github.com/Takeru-chan/f44d42b0036f01e5aa0d)からカスタムコードを除いてライセンス表示を追加しました。
 
-I've reduced some code in [an hta program on my Gist](https://gist.github.com/f44d42b0036f01e5aa0d.git).
+I've reduced some code in [an hta program on my Gist](https://gist.github.com/Takeru-chan/f44d42b0036f01e5aa0d).
 ##Usage | 使い方
 Windowsでcalendar.htaを起動します。  
 タイトルバーに年月、ウィンドウ中央には今月のカレンダーを表示します。
