@@ -1,9 +1,9 @@
-#The calendar application for Microsoft Windows.
+# The calendar application for Microsoft Windows.
 Windowsのデスクトップガジェット風カレンダーアプリです。  
 [Gistに置いてあるhtaプログラム](https://gist.github.com/Takeru-chan/f44d42b0036f01e5aa0d)からカスタムコードを除いてライセンス表示を追加しました。
 
 I've reduced some code in [an hta program on my Gist](https://gist.github.com/Takeru-chan/f44d42b0036f01e5aa0d).
-##Usage | 使い方
+## Usage | 使い方
 Windowsでcalendar.htaを起動します。  
 タイトルバーに年月、ウィンドウ中央には今月のカレンダーを表示します。
 ウィンドウ上部左側に今日の日付と曜日、現在時刻を表示します。
@@ -20,6 +20,6 @@ calendar.htaと同じフォルダに以下のファイルを置くことでカ�
 - calendar.txt  
  デフォルトのメモ表示内容をテキストファイルの内容に置き換えます。
 
-##License
+## License
 This program has released under the MIT license.  
 [http://opensource.org/licenses/MIT](http://opensource.org/licenses/MIT)
